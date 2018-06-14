@@ -1,0 +1,1 @@
+<a class="btn btn-secondary btn-sm" href="index.php?page=tagged&amp;tags={{TAG}}">{{TAG}}</a>

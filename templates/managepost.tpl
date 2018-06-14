@@ -1,0 +1,2 @@
+<a href="index.php?page=editpost&amp;id={{POST-ID}}"><img src="images/edit.jpg" class="float-right"></a>
+<a href="index.php?page=deletepost&amp;id={{POST-ID}}"><img src="images/delete.jpg" class="float-right"></a>
